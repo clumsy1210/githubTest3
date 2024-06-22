@@ -1,0 +1,10 @@
+﻿  StackArray.c
+C:\Users\jongin Kim\Desktop\C\PracticeDataStructure\Stack\StackArray.c(48,6): warning C4013: 'IsEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+StackArray.obj : error LNK2005: CreateStack이(가) LinkedListStack.obj에 이미 정의되어 있습니다.
+StackArray.obj : error LNK2005: GetSize이(가) LinkedListStack.obj에 이미 정의되어 있습니다.
+StackArray.obj : error LNK2005: IsEmpty이(가) LinkedListStack.obj에 이미 정의되어 있습니다.
+StackArray.obj : error LNK2005: Pop이(가) LinkedListStack.obj에 이미 정의되어 있습니다.
+StackArray.obj : error LNK2005: Push이(가) LinkedListStack.obj에 이미 정의되어 있습니다.
+StackArray.obj : error LNK2005: Top이(가) LinkedListStack.obj에 이미 정의되어 있습니다.
+StackArray.obj : error LNK2005: main이(가) LinkedListStack.obj에 이미 정의되어 있습니다.
+C:\Users\jongin Kim\Desktop\C\PracticeDataStructure\x64\Debug\Stack.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
